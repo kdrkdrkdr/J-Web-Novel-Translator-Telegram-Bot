@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "c:\\Users\\power\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintArgs": [
+        "--extension-pkg-whitelist=PySide2",
+        "--extension-pkg-whitelist=cv2",
+    ]
+    
+}

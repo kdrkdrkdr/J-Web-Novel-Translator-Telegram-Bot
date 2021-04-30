@@ -1,0 +1,9 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+www.pixiv.net	0	0	1612787374	31536000
+qiita.com	0	0	1605236653	2592000
+youtu.be	0	0	1612054721	31536000
+twitter.com	0	0	1601481685	631138519
+syosetu.org	0	0	1610661331	31536000
+www.youtube.com	0	0	1612054722	31536000
